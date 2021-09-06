@@ -21,7 +21,7 @@ public class Measurement implements IMeasurement {
         this.container = container;
         this.recyclingBin = recyclingBin;
     }
-
+//
     @Override
     public int getId() {
         return this.id;
