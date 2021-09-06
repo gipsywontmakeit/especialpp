@@ -1,0 +1,252 @@
+[
+  {
+    "Codigo": "ECOF32",
+    "Ref. Localização": "CM1181 444",
+    "Zona": "Moure",
+    "Latitude": 41.357226,
+    "Longitude": -8.168678,
+    "Contentores": [
+        {"codigo":"E100", "capacidade":600},
+        {"codigo":"P099", "capacidade":750},
+        {"codigo":"BL66K", "capacidade":100}
+    ]
+  },
+  {
+    "Codigo": "ECOF33",
+    "Ref. Localização": "CM1167 736",
+    "Zona": "Rande",
+    "Latitude": 41.336092,
+    "Longitude": -8.239746,
+    "Contentores": [
+        {"codigo":"E106", "capacidade":600},
+        {"codigo":"P0EK", "capacidade":900},
+        {"codigo":"V69E", "capacidade":500}
+    ]
+  },
+  {
+    "Codigo": "ECOF34",
+    "Ref. Localização": "EM562",
+    "Zona": "Sousa",
+    "Latitude": 41.346402,
+    "Longitude": -8.253136,
+    "Contentores": [
+        {"codigo":"E10L", "capacidade":600},
+        {"codigo":"P0QQ", "capacidade":750},
+        {"codigo":"V6Q1", "capacidade":500},
+        {"codigo":"BL6Q1", "capacidade":70}
+    ]
+  },
+  {
+    "Codigo": "ECOF35",
+    "Ref. Localização": "Rua da çgua Levada 240",
+    "Zona": "Barrosas",
+    "Latitude": 41.35233,
+    "Longitude": -8.302574,
+    "Contentores": [
+        {"codigo":"E110", "capacidade":1000},
+        {"codigo":"P106", "capacidade":750},
+        {"codigo":"V70L", "capacidade":600},
+        {"codigo":"BPL70L", "capacidade":100}
+    ]
+  },
+  {
+    "Codigo": "ECOF36",
+    "Ref. Localização": "Rua de Vila Corneira 8",
+    "Zona": "Tagilde",
+    "Latitude": 41.371656,
+    "Longitude": -8.270645,
+    "Contentores": [
+        {"codigo":"E111", "capacidade":600},
+        {"codigo":"P111", "capacidade":280},
+        {"codigo":"VE0I", "capacidade":500},
+        {"codigo":"BLE0I", "capacidade":100}
+    ]
+  },
+  {
+    "Codigo": "ECOF37",
+    "Ref. Localização": "CM1160 2078",
+    "Zona": "Pombeiro",
+    "Latitude": 41.381961,
+    "Longitude": -8.228073,
+    "Contentores": [
+        {"codigo":"E1EI", "capacidade":500},
+        {"codigo":"P116", "capacidade":750},
+        {"codigo":"VY6L", "capacidade":500},
+        {"codigo":"BL7KI", "capacidade":120}
+    ]
+  },
+  {
+    "Codigo": "ECOF38",
+    "Ref. Localização": "CM1163 1344",
+    "Zona": "Lagares",
+    "Latitude": 41.371914,
+    "Longitude": -8.237,
+    "Contentores": [
+        {"codigo":"E1Y0", "capacidade":600},
+        {"codigo":"P11L", "capacidade":530},
+        {"codigo":"VY7Y", "capacidade":500},
+        {"codigo":"BL9E0", "capacidade":100}
+    ]
+  },
+  {
+    "Codigo": "ECOF39",
+    "Ref. Localização": "EM562 188",
+    "Zona": "Torrados",
+    "Latitude": 41.353876,
+    "Longitude": -8.233566,
+    "Contentores": [
+        {"codigo":"E6Q0", "capacidade":300},
+        {"codigo":"P11Q", "capacidade":750},
+        {"codigo":"VY9E", "capacidade":660},
+        {"codigo":"BLIQL", "capacidade":100}
+    ]
+  },
+  {
+    "Codigo": "ECOF40",
+    "Ref. Localização": "Rua Professor Joaquim Barros Leite",
+    "Zona": "Margaride",
+    "Latitude": 41.361349,
+    "Longitude": -8.198204,
+    "Contentores": [
+        {"codigo":"E7KI", "capacidade":600},
+        {"codigo":"P1QL", "capacidade":750},
+        {"codigo":"VYE6", "capacidade":500},
+        {"codigo":"BLIQQ", "capacidade":80}
+    ]
+  },
+  {
+    "Codigo": "ECOF41",
+    "Ref. Localização": "EM514 5",
+    "Zona": "Sendim",
+    "Latitude": 41.385567,
+    "Longitude": -8.181038,
+    "Contentores": [
+        {"codigo":"E7YK", "capacidade":1200},
+        {"codigo":"P1Y0", "capacidade":750},
+        {"codigo":"VYEI", "capacidade":500},
+        {"codigo":"BPIK", "capacidade":100}
+    ]
+  },
+  {
+    "Codigo": "ECOF42",
+    "Ref. Localização": "Rua Fonseca Moreira",
+    "Zona": "Margaride",
+    "Latitude": 41.376615,
+    "Longitude": -8.192797,
+    "Contentores": [
+        {"codigo":"E7YL", "capacidade":600},
+        {"codigo":"P6E1", "capacidade":750},
+        {"codigo":"VQL1", "capacidade":500},
+        {"codigo":"BQE0", "capacidade":100}
+    ]
+  },
+  {
+    "Codigo": "ECOF43",
+    "Ref. Localização": "Rua da Giestinha 51",
+    "Zona": "Margaride",
+    "Latitude": 41.364635,
+    "Longitude": -8.188334,
+    "Contentores": [
+        {"codigo":"E9Y7", "capacidade":600},
+        {"codigo":"P6Q0", "capacidade":500},
+        {"codigo":"VQQ0", "capacidade":500},
+        {"codigo":"B6Q0", "capacidade":100}
+    ]
+  },
+  {
+    "Codigo": "ECOF44",
+    "Ref. Localização": "Rua de Santa Marta 26",
+    "Zona": "Caramos",
+    "Latitude": 41.342536,
+    "Longitude": -8.169107,
+    "Contentores": [
+        {"codigo":"ELIK", "capacidade":400},
+        {"codigo":"P76L", "capacidade":750},
+        {"codigo":"VQQ6", "capacidade":500}
+    ]
+  },
+  {
+    "Codigo": "ECOF45",
+    "Ref. Localização": "Rua Lus de Cames",
+    "Zona": "Lixa",
+    "Latitude": 41.326811,
+    "Longitude": -8.147564,
+    "Contentores": [
+        {"codigo":"ELKQ", "capacidade":600},
+        {"codigo":"P7KI", "capacidade":400},
+        {"codigo":"VQQQ", "capacidade":500}
+    ]
+  },
+  {
+    "Codigo": "ECOF46",
+    "Ref. Localização": "Praa Doutor Jos Joaquim Coimbra 76",
+    "Zona": "Lixa",
+    "Latitude": 41.322428,
+    "Longitude": -8.145332,
+    "Contentores": [
+        {"codigo":"EQE0", "capacidade":600},
+        {"codigo":"P9E0", "capacidade":750},
+        {"codigo":"VQQY", "capacidade":900}
+    ]
+  },
+  {
+    "Codigo": "ECOF47",
+    "Ref. Localização": "N207-3 394",
+    "Zona": "Pinheiro",
+    "Latitude": 41.366696,
+    "Longitude": -8.155203,
+    "Contentores": [
+        {"codigo":"EQE1", "capacidade":350},
+        {"codigo":"PIQL", "capacidade":750},
+        {"codigo":"VQY6", "capacidade":500}
+    ]
+  },
+  {
+    "Codigo": "ECOF48",
+    "Ref. Localização": "EM562 1 D",
+    "Zona": "Sernande",
+    "Latitude": 41.342149,
+    "Longitude": -8.230906,
+    "Contentores": [
+        {"codigo":"EYI6", "capacidade":600},
+        {"codigo":"PIQQ", "capacidade":750},
+        {"codigo":"VQYL", "capacidade":350}
+    ]
+  },
+  {
+    "Codigo": "ECOF49",
+    "Ref. Localização": "CM1162 1509",
+    "Zona": "Penacova",
+    "Latitude": 41.372364,
+    "Longitude": -8.252878,
+    "Contentores": [
+        {"codigo":"EYI7", "capacidade":600},
+        {"codigo":"PLIK", "capacidade":750},
+        {"codigo":"VY00", "capacidade":500}
+    ]
+  },
+  {
+    "Codigo": "ECOF50",
+    "Ref. Localização": "CM1161",
+    "Zona": "Vila Fria",
+    "Latitude": 41.384859,
+    "Longitude": -8.244982,
+    "Contentores": [
+        {"codigo":"EYIQ", "capacidade":600},
+        {"codigo":"PQE0", "capacidade":750},
+        {"codigo":"VY07", "capacidade":500}
+    ]
+  },
+  {
+    "Codigo": "ECOF51",
+    "Ref. Localização": "CM1160 2078",
+    "Zona": "Pombeiro",
+    "Latitude": 41.380351,
+    "Longitude": -8.22361,
+    "Contentores": [
+        {"codigo":"EYK0", "capacidade":600},
+        {"codigo":"PQE1", "capacidade":750},
+        {"codigo":"VY17", "capacidade":500}
+    ]
+  }
+]
